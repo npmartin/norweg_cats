@@ -1,0 +1,34 @@
+h1 {
+  color: blue;
+  font-size: 36;
+}
+
+p {
+  color: green;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.cat-item {
+  font-family: monospace;
+}
+
+#css-item {
+  color: #ff69b4;
+  font-style: italic;
+}
+
+#cat-list {
+  border-style: dotted;
+  border-color: ccff00;
+  Width: 30%;
+}
+
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: #ff69b4;
+}
